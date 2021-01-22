@@ -13,10 +13,13 @@ Big data ecosystem and data engineering <br>
 IA, nlp projects
 
 💬 Ask me about: <br>
-Literature (sorry, I'd like to say software but I really love reading), and after that, yes : mathematics, algorithms, sql <br>
+Literature, mathematics, algorithms, sql <br>
 
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; savacano_28@live.com
+savacano_28@live.com
 
 ⚡ Fun fact: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Infinite Jest
+Infinite Jest
+
+Past projects: <br>
+

@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
  
-### Hi there 👋, I'm Savacano28. I'm a software developer looking for making a career in data engineering. Welcome to my gh page! <br>
+### Hi 👋, I'm Stephanya and I'm a software developer looking for making a career in data engineering <br>
  
 Resume:  [Stephanya CASANOVA-MARROQUIN Resume](https://github.com/savacano28/savacano28.github.io/blob/main/resume.pdf) (PDF download)
  
@@ -11,13 +11,13 @@ Different projects with Spring, angularjs, ES...
 Big data ecosystem and data engineering <br>
 
 👯 I'm looking to collaborate on : <br>
-nlp projets
+nlp projects
 
 🤔 *Looking for help*: <br> 
-I'm looking for help with trying to find my first data engineering job<br>
+I'm looking for help with trying to find a data engineering job<br>
 
 💬 Ask me about: <br>
-literature (sorry, I'd like to say software but I read love reading), mathematics, algorithms, sql <br>
+literature (sorry, I'd like to say software but I really love reading), and after that, yes : mathematics, algorithms, sql <br>
 
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](savacano_28@live.com)

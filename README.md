@@ -19,7 +19,7 @@ I'm looking for help with trying to find a data engineering job<br>
 literature (sorry, I'd like to say software but I really love reading), and after that, yes : mathematics, algorithms, sql <br>
 
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](savacano_28@live.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; savacano_28@live.com
 
 ⚡ Fun fact: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Infinite Jest

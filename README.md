@@ -16,7 +16,7 @@ nlp projects
 I'm looking for help with trying to find a data engineering job<br>
 
 💬 Ask me about: <br>
-literature (sorry, I'd like to say software but I really love reading), and after that, yes : mathematics, algorithms, sql <br>
+Literature (sorry, I'd like to say software but I really love reading), and after that, yes : mathematics, algorithms, sql <br>
 
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; savacano_28@live.com

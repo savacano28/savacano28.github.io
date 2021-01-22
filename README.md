@@ -3,7 +3,7 @@
  
 Resume:  [Stephanya CASANOVA-MARROQUIN Resume](https://github.com/savacano28/savacano28.github.io/blob/main/resume.pdf) (PDF download)
  
- ![erm](https://github.com/savacano28/savacano28.github.io/blob/main/basilique.jpeg)  
+<img src="https://github.com/savacano28/savacano28.github.io/blob/main/basilique.jpeg"/> 
  
 🔭 *Currently working on*: <br>
 Different projects with Spring, angularjs, ES... 

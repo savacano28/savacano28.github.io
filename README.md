@@ -17,7 +17,7 @@ Literature, mathematics, algorithms, sql <br>
 
 📫 How to reach me: <br>
 savacano_28@live.com  
-[github](https://github.com/savacano28) 
+[github repositories](https://github.com/savacano28) 
 
 ⚡ Fun fact: <br>
 Infinite Jest

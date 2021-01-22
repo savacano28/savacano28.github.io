@@ -10,10 +10,7 @@ Different projects with Spring, angularjs, ES...
 Big data ecosystem and data engineering <br>
 
 👯 I'm looking to collaborate on : <br>
-nlp projects
-
-🤔 *Looking for help*: <br> 
-I'm looking for help with trying to find a data engineering job<br>
+IA, nlp projects
 
 💬 Ask me about: <br>
 Literature (sorry, I'd like to say software but I really love reading), and after that, yes : mathematics, algorithms, sql <br>

@@ -1,5 +1,5 @@
 
-### Hi 👋, I'm Stephanya and I'm a software developer looking for making a career in data engineering <br>
+### Hi 👋, I'm Stephanya and I'm a software developer looking for a career in data engineering <br>
  
 Resume:  [Stephanya CASANOVA-MARROQUIN Resume](https://github.com/savacano28/savacano28.github.io/blob/main/CASANOVA-resume.pdf) (PDF download)
  

@@ -7,7 +7,7 @@ Resume:  [Stephanya CASANOVA-MARROQUIN Resume](https://github.com/savacano28/sav
 Different projects with Spring, angularjs, ES... 
  
 🌱 *Currently Learning*: <br>
-Big data ecosystem and data engineering (:eyes: https://www.jesse-anderson.com/ :eyes: ) <br>
+Big data ecosystem and data engineering (👀 https://www.jesse-anderson.com/ 👀 ) <br>
 
 👯 *I'm looking to collaborate on*: <br> 
 IA, nlp projects
@@ -22,5 +22,5 @@ savacano_28@live.com
 ⚡ *Fun fact*: <br>
 Infinite Jest
 
-:blossom: :blossom: *Past projects*: <br>
+🌼🌼 *Past projects*: 🌼🌼 <br>
 

@@ -12,10 +12,10 @@
 	  margin-top: 0; padding-left: 10px;
 	  font-family: Roboto, sans-serif;
 	  text-align: left; list-style: none;
-	  animation: 6s linear 0s normal none infinite change;
-	  -webkit-animation: 6s linear 0s normal none infinite change;
-	  -moz-animation: 6s linear 0s normal none infinite change;
-	  -o-animation: 6s linear 0s normal none infinite change;
+	  animation: 12s linear 0s normal none infinite change;
+	  -webkit-animation: 12s linear 0s normal none infinite change;
+	  -moz-animation: 12s linear 0s normal none infinite change;
+	  -o-animation: 12s linear 0s normal none infinite change;
 	}
 
 	.content:before {

@@ -9,7 +9,7 @@
 }
 
 #animation1 {
-	  margin-top: 0; padding-left: 10px;
+	  margin-top: 40px; padding-left: 10px;
 	  font-family: Roboto, sans-serif;
 	  text-align: left; list-style: none;
 	  animation: 6s linear 0s normal none infinite change;
@@ -36,7 +36,6 @@
 		}
 	
 	.visible {
-	  margin-top: 40px;
 	  float: left; font-weight: 100;
 	  overflow: hidden; height: 40px;
 	  font-family: Roboto, sans-serif;

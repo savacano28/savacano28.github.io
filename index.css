@@ -18,13 +18,13 @@
 }
 
 #animation1 {
-	  margin-top: 0; padding-left: 105px;
+	  margin-top: 0; padding-left: 50px;
 	  font-family: Roboto, sans-serif;
 	  text-align: left; list-style: none;
-	  animation: 6s linear 0s normal none infinite change;
-	  -webkit-animation: 6s linear 0s normal none infinite change;
-	  -moz-animation: 6s linear 0s normal none infinite change;
-	  -o-animation: 6s linear 0s normal none infinite change;
+	  animation: 12s linear 0s normal none infinite change;
+	  -webkit-animation: 12s linear 0s normal none infinite change;
+	  -moz-animation: 12s linear 0s normal none infinite change;
+	  -o-animation: 12s linear 0s normal none infinite change;
 	}
 
 	.content:before {
@@ -39,7 +39,7 @@
 			  content: ']'; position: relative;
 			  font-weight: 100;
 			  color: white;
-			  right: -110px; line-height: 40px;
+			  right: -50px; line-height: 40px;
 			  top:40px;
 			  font-family: Roboto, sans-serif;
 		}
@@ -319,7 +319,7 @@
 		}
 
 	.sixthPage {
-		        background-image:url("programmingImageLight2.png");
+		        background-image:url("basilique.jpeg");
 			height: 1000px;
 			width:100%;
 			background-size:cover;
@@ -336,7 +336,7 @@
 		}
 
 		.internships {
-			background-image:url("programmingImageLight2.png");
+			background-image:url("basilique.jpeg");
 			height: 100%;
 			width:100%;
 			background-size:cover;

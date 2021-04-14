@@ -16,20 +16,20 @@
 }
 
 #animation1 {
-	  margin-top: 0; padding-left: 55px;
+	  padding-left: 55px;
 	  font-family: Roboto, sans-serif;
 	  text-align: left; list-style: none;
-	  animation: 6s linear 0s normal none infinite change;
-	  -webkit-animation: 6s linear 0s normal none infinite change;
-	  -moz-animation: 6s linear 0s normal none infinite change;
-	  -o-animation: 6s linear 0s normal none infinite change;
+	  animation: 8s linear 0s normal none infinite change;
+	  -webkit-animation: 8s linear 0s normal none infinite change;
+	  -moz-animation: 8s linear 0s normal none infinite change;
+	  -o-animation: 8s linear 0s normal none infinite change;
 	}
 
 	.content:before {
 			  content: '['; position: relative;
 			  font-weight: 100;
 			  color: white;
-			  left: -310px; line-height: 40px;
+			  left: -340px; line-height: 40px;
 			  top: 0px;
 			  font-family: Roboto, sans-serif;
 		}
@@ -37,7 +37,7 @@
 			  content: ']'; position: relative;
 			  font-weight: 100;
 			  color: white;
-			  right: -15px; line-height: 40px;
+			  right: 10px; line-height: 40px;
 			  top: 0px;
 			  font-family: Roboto, sans-serif;
 		}
@@ -566,16 +566,16 @@
 			background-size:cover;
 			}
 		.content {
-			  width: 337px; font-size: 36px; line-height: 40px;
+			  width: 340px; font-size: 36px; line-height: 40px;
 			  font-family: Roboto, sans-serif; color: #ecf0f1; height: 40px;
 			  position: relative; top: 60%; left: 50%;
-			  top: -20px; margin-left: -158px;
+			  top: -20px; margin-left: -145px;
 		
 		}
 		
 
 	ul { margin: 0; 
-		padding:0 20px;
+		padding: 0;
 		}
 
 	ul li {

@@ -9,7 +9,7 @@
 }
 
 #animation1 {
-	  margin-top: 0; padding-left: 50px;
+	  margin-top: 0; padding-left: 10px;
 	  font-family: Roboto, sans-serif;
 	  text-align: left; list-style: none;
 	  animation: 6s linear 0s normal none infinite change;
@@ -20,7 +20,7 @@
 
 	.content:before {
 			  content: '['; position: relative;
-			  font-weight: 100;
+			  font-weight: 80;
 			  color: white;
 			  left: -114px; line-height: 40px;
 			  top: 40px;
@@ -28,7 +28,7 @@
 		}
 		.content:after {
 			  content: ']'; position: relative;
-			  font-weight: 100;
+			  font-weight: 80;
 			  color: white;
 			  right: -110px; line-height: 40px;
 			  top:40px;

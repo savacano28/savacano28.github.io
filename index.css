@@ -18,7 +18,7 @@
 }
 
 #animation1 {
-	  margin-top: 0; padding-left: 55px;
+	  margin-top: 40px; padding-left: 10px;
 	  font-family: Roboto, sans-serif;
 	  text-align: left; list-style: none;
 	  animation: 6s linear 0s normal none infinite change;
@@ -31,7 +31,7 @@
 			  content: '['; position: relative;
 			  font-weight: 100;
 			  color: white;
-			  left: -150px; line-height: 40px;
+			  left: -350px; line-height: 40px;
 			  top: 40px;
 			  font-family: Roboto, sans-serif;
 		}
@@ -571,7 +571,7 @@
 			  width: 337px; font-size: 36px; line-height: 40px;
 			  font-family: Roboto, sans-serif; color: #ecf0f1; height: 40px;
 			  position: relative; top: 60%; left: 50%;
-			  top: -20px; margin-left: -158px;
+			  top: -20px; margin-left: -178px;
 		
 		}
 		

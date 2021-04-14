@@ -260,7 +260,7 @@
 */
 
 	.sixthPage {
-			background-image:url("programmingImageLight2.png");
+			background-image:url("basilique.jpeg");
 			/*background-color: lightgray;*/
 			height: 700px;
 			width:100%;
@@ -278,7 +278,7 @@
 		}
 
 		.internships {
-			background-image:url("programmingImageLight2.png");
+			background-image:url("basilique.jpeg");
 			height: 100%;
 			width:100%;
 			background-size:cover;

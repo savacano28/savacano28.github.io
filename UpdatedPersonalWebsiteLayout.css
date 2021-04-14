@@ -36,6 +36,7 @@
 		}
 	
 	.visible {
+	  margin-top: 40px;
 	  float: left; font-weight: 100;
 	  overflow: hidden; height: 40px;
 	  font-family: Roboto, sans-serif;

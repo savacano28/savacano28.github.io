@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Lawrence's Bootstrap</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	
+	<style>
+		.box {
+			border:1px solid grey;
+			background-color:#d3d3d3;
+			}
+			
+		.large {
+			font-size:1000%;
+			color:blue;
+			background-color:none;
+			}
+			
+		#div1 {
+		background-color:blue;}
+		
+		#div2 {
+		background-color:red;}
+		
+		#div3 {
+		background-color:green;}
+		
+		div{
+		height:400px;
+		}
+	
+	</style>
+  </head>
+  <body>
+  
+	<div class="navbar navbar-inverse">
+	
+		<div class="container">
+		
+			<div class ="navbar-header">
+				<a href="" class="navbar-brand">My Website </a>
+		
+		
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			</div>
+			
+			
+			<div class="collapse navbar-collapse">
+			
+				<ul class="nav navbar-nav">
+					<li class="active"><a href="">Page 1</a></li>
+					<li><a href="">Page 2</a></li>
+					<li><a href="">Page 3</a></li>
+					
+				</ul>
+			</div>
+			
+			
+		</div>
+	
+	</div>
+	
+  
+    <h1>Hello, world!</h1>
+	
+	<div class="container">
+	
+		<button class="btn btn-success" data-toggle="modal" data-target="#myModal">
+		Launch Modal
+		</button>
+		<div class="modal" id="myModal">
+			<div class="modal-dialog modal-sm">
+				<div class="modal-content">
+					<div class="modal-header">
+					<button class="close" data-dismiss="modal">x</button>
+					
+					<h4 class="modal-title">My Modal!</h4>
+					</div>
+					
+					<div class="modal-body">
+						What a fantastic modal this is!
+					</div>
+					
+					<div class="modal-footer">
+						<button class="btn btn-default" data-dismiss="modal">Close</button>
+						<button class="btn btn-success">Save Changes</button>
+					</div>
+					
+				</div>
+				
+			</div>
+		</div>
+		<div id="div1">Content</div>
+					<div id="div2">Content</div>
+					<div id="div3">Content</div>
+	</div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

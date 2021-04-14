@@ -1,0 +1,54 @@
+<style type="text/css">
+
+#topContainer {
+			background-image:url("stockphoto1.jpg");
+			height:770px;
+			width:100%;
+			background-size:cover;
+		}
+		
+#topRow {
+		margin-top:250px;
+		text-align:center;
+		color:black;
+		}
+		
+#topRow h1 {
+		font-size: 500%;
+		}		
+	
+  .showbox {
+    float: center;
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+     -webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;
+  }
+  .showbox.slideright:hover {
+    -webkit-transform: translate(10em,0);
+    -moz-transform: translate(10em,0);
+    -o-transform: translate(10em,0);
+    -ms-transform: translate(10em,0);
+    transform: translate(10em,0);
+  }
+  
+  .showbox.grow:hover {
+    transform: scale(1.2,1.2); /* Standard syntax */
+}
+
+</style>
+
+<div id="topContainer">
+	<div class="showbox slideright">Lawrence Cheng
+	
+	</div>
+	
+	<div class="col-md-6 col-md-offset-3 showbox grow" id = "topRow">
+			<h1>Lawrence Cheng</h1>
+			<h2>I am a:</h2>
+	</div>
+</div>

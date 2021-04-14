@@ -1,27 +1,8 @@
+# lawrencecheng123.github.io
+Personal Website for Lawrence Cheng
 
-### Hi 👋, I'm Stephanya and I'm a software developer looking to specialize in data engineering <br>
- 
-Resume:  [Stephanya CASANOVA-MARROQUIN Resume](https://github.com/savacano28/savacano28.github.io/blob/main/CASANOVA-resume.pdf) (PDF download)
- 
-🔭 *Currently working on*: <br>
-Different projects with Spring, angularjs, ES... 
- 
-🌱 *Currently Learning*: <br>
-Big data ecosystem and data engineering (👀 [https://www.jesse-anderson.com/](https://www.jesse-anderson.com/) 👀 ) <br>
+Synopsis: This is a personal webpage developed with HTML, CSS, and Javascript to display information about myself. It also used the Materialize library for certain CSS components. It contains
+my background, projects, and experience that I have had in the past.
 
-👯 *I'm looking to collaborate on*: <br> 
-IA, nlp projects
-
-💬 *Ask me about*: <br>
-Literature, mathematics, algorithms, sql <br>
-
-📫 *How to reach me*: <br>
-savacano_28@live.com  
-[github repositories](https://github.com/savacano28) 
-
-⚡ *Fun fact*: <br>
-Infinite Jest
-
-🌼🌼 *Past projects*: 🌼🌼 <br>
-
+Note: Currently optimized for full-screen webpage on desktop.
 

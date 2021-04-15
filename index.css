@@ -318,7 +318,7 @@
 
 	.sixthPage {
 		        background-image:
-			linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)),url("cali.webp");
+			linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)),url("cali.webp");
 			height: 1000px;
 			width:100%;
 			background-size:cover;

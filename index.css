@@ -194,12 +194,10 @@
 			}
 			
 		.myImage {
-			 width: 200px;
-		    height: 230px;
-		    border: 1px solid white;
-		    border-radius: 60px;
+		    width: 200px;
+		    height: 250px;
 		    background-image: url('ProfilePic.jpg');
-		    background-size: 200px;   
+		    background-size: 110px;   
 		    background-repeat: no-repeat;
 		    background-position: 50%;
 		}
